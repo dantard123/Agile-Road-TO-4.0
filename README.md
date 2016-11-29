@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Agile-Road-TO-4.0
 Agile Assignment
 (Group 6)
@@ -7,4 +6,4 @@ Agile Assignment
 [Lee Hwei Sheen], 
 [Lim Chye Yik], 
 [Teoh Eng Sin], 
->>>>>>> origin/master
+
